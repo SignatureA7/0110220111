@@ -1,0 +1,37 @@
+    body {
+        background: url(https://cdn.discordapp.com/attachments/691335527881900033/771542712771936277/ISP.jpg);
+        background-repeat:no-repeat;
+        background-size: cover;
+    }
+    #p {
+        color: #ffffff;
+        font-size: 1em;
+        font-weight: normal;
+        /**font-style: oblique;**/
+    }
+    #p1 {
+        color: #ffffff;
+        font-size: 40px;
+        font-weight: bold;
+        font-family:Rockwell, Calibri, Monospace;
+        font-style : oblique; 
+    }
+     #p2 {
+        color: #ffffff;
+        font-size: 20px;
+        font-weight: bold;
+        font-family:Rockwell, Calibri, Monospace;
+        font-style : oblique;
+    }       
+    table {
+    	border: line;
+        background-color:black;
+        margin: 10px;
+    }
+    th {
+        color: #ffffff;
+    }
+    td {
+        color: #ffffff;
+        text-align: center;
+    }
